@@ -1,1 +1,3 @@
 # CRWU_data
+In this dataset, DE and FE data under a 3 hp load are selected from CRWU. The rotation speed is 1797 r/min and the sampling frequency is 12 kHz.
+ approximately 400 ((60/17300)×12000 ≈ 400) points are selected  from one sensors. Thus, 800 point (from FE,DE) are regarded as a training sample. All training data and testing data are splited and uploaded
